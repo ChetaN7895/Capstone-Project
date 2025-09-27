@@ -29,7 +29,7 @@
 
 ## Live Demo
 
-Live project [Muse Guitars]()
+Live project [Muse Guitars](https://chetan7895.github.io/Capstone-Project/)
 
 ## Authors
 
